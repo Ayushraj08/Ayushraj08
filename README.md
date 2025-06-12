@@ -61,6 +61,14 @@
 
 ###
 
-<img align="right" height="150" src="https://media.licdn.com/dms/image/v2/D4D03AQGaFaDnYvTnoA/profile-displayphoto-shrink_800_800/B4DZQ3PI33HcAc-/0/1736093504473?e=1755129600&v=beta&t=B7vA9UlSWpkJigoPdDR1wrjMaE6N8zOYF5y46Jlargc"  />
+<img src="https://raw.githubusercontent.com/Ayushraj08/Ayushraj08/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayushraj08&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Ayushraj08&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Ayushraj08&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
 ###
